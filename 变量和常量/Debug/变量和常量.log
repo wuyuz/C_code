@@ -1,0 +1,6 @@
+﻿  变量和常量.c
+C:\Users\Administrator\Desktop\Code_Pro\C_code\变量和常量\变量和常量.c(7,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+C:\Users\Administrator\Desktop\Code_Pro\C_code\变量和常量\变量和常量.c(12,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\Administrator\Desktop\Code_Pro\C_code\变量和常量\变量和常量.c(12,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+C:\Users\Administrator\Desktop\Code_Pro\C_code\变量和常量\变量和常量.c(12,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“int *”
+  变量和常量.vcxproj -> C:\Users\Administrator\Desktop\Code_Pro\C_code\变量和常量\Debug\变量和常量.exe

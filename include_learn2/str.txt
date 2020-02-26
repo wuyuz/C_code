@@ -1,0 +1,2 @@
+#pragma once
+printf("当我巴拉巴拉巴拉...");
