@@ -1,0 +1,1 @@
+C:/cygwin64/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/jinzhi.dir/main.c.o  -o jinzhi.exe -Wl,--out-implib,libjinzhi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
